@@ -1,3 +1,4 @@
+
 .banner{
     width: 100%;
 }
@@ -5,4 +6,46 @@
 img{
     width: 10%;
     height: 10%;
+}
+
+form{ 
+    width: 258px;
+    height: 200px;
+    background-color: #ffffff; 
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 150px;        
+}
+
+input{
+    width: 235px;
+    height: 35px;
+    border-color: #000000;
+    border-style: solid;
+    border-width: thin;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+
+button{
+    font-weight: bold;
+    width: 235px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #7fffd4;
+    border-style: solid;
+    border-color: #000000;
+    border-width: thin;
+    color: #000000   
+}
+
+#sms{
+    width: 20px;
+    height: 18px;
+}
+
+#email{
+    width: 20px;
+    height: 18px;
 }
